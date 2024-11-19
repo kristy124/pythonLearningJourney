@@ -1,0 +1,8 @@
+2024-11-19 20:52:49,127 INFO:Backed up sales_data.csv to sales_data_backup/sales_data_backup_20241119_205249.csv
+2024-11-19 20:52:49,127 INFO:Shuffled the data in sales_data.csv
+2024-11-19 20:52:59,136 INFO:Backed up sales_data.csv to sales_data_backup/sales_data_backup_20241119_205259.csv
+2024-11-19 20:52:59,137 INFO:Shuffled the data in sales_data.csv
+2024-11-19 20:53:09,144 INFO:Backed up sales_data.csv to sales_data_backup/sales_data_backup_20241119_205309.csv
+2024-11-19 20:53:09,145 INFO:Shuffled the data in sales_data.csv
+2024-11-19 20:53:19,153 INFO:Backed up sales_data.csv to sales_data_backup/sales_data_backup_20241119_205319.csv
+2024-11-19 20:53:19,153 INFO:Shuffled the data in sales_data.csv
